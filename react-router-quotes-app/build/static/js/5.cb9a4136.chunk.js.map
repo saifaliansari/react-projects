@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/Notfound.js"],"names":["Notfound","className"],"mappings":"qJAMeA,UANE,WACb,OAAO,qBAAKC,UAAU,WAAf,SACH","file":"static/js/5.cb9a4136.chunk.js","sourcesContent":["const Notfound = () => {\n    return <div className='centered'>\n        <p>Page Not found</p>\n    </div>\n}\n\nexport default Notfound;"],"sourceRoot":""}
